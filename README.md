@@ -1,6 +1,8 @@
 ## Overview of Project
 
-The project was created to help Steve to see the position of  Green Energy stocks in 2017 and 2018 an if are good. We have used the formulas using tickers. we have developed a code but we received a new code to use only one loop and be faster. 
+The project was created to help Steve to see the position of  Green Energy stocks in 2017 and 2018 an if are good. We have used the formulas using tickers. we have developed a code but we received a new code to use only one loop and be faster.
+
+You can Download the final excel file [here](https://github.com/lfhoepers/stock-analysis/blob/73706a03b35e1cedd26bd864220ea14dce71e6ec/VBA_Challenge.xlsm).
 
 
 ## Results
