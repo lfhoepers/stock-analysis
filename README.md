@@ -121,4 +121,7 @@ Smaller code is:
 
 - The only disadvantage that I found was the time spent to rewrite the code and test.
 
+I appreciate the opportunity to present this project, I am available for any clarification.
 
+**Luiz Fernando Hoepers**  
+###### UofT SCS Data Analytics Boot Camp
